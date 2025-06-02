@@ -1,0 +1,7 @@
+*.txt
+.venv
+pass.txt
+*.log
+.idea
+./tmp/
+
